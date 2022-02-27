@@ -5,3 +5,5 @@ My name is Zowpy, i am 14 years old.
 - 📊 Databases i use: MongoDB, Redis   
 
 ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Zowpy&count_private=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zowpy&theme=tokyonight)
+
