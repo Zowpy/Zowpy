@@ -2,7 +2,9 @@
 
 I'm Zowpy!
 
-- Discord: Zowpy#1038
+- Discord: zowpy
+
+https://discord.melonmc.org/
 
 ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Zowpy&count_private=true&theme=tokyonight)
 
